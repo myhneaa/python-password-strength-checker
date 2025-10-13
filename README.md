@@ -1,4 +1,4 @@
-# python-password-strength-checker
+# Password Strength Checker
 Simple CLI python script that checks the strength of a given password
 
 v1.0 - First release!
