@@ -2,6 +2,9 @@
 ### PASSWORD STRENGTH CHECKER ###
 #################################
 
+### Shoutouts to Daniel Miessler for the common passwords list!
+### https://github.com/danielmiessler/SecLists/blob/master/Passwords/Common-Credentials/100k-most-used-passwords-NCSC.txt
+
 import string
 import os
 
