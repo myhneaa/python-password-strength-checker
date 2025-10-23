@@ -12,7 +12,7 @@ Features:
 Prerequisites: 
 - Python 3.x minimum
   
-Installtation:
+Installation:
 - cd into script directory and run "python psc.py"
 - alternatively, run the script inside an IDE
 - or any other method that works, really
