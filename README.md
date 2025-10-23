@@ -16,6 +16,5 @@ Installtation:
 - cd into script directory and run "python psc.py"
 - alternatively, run the script inside an IDE
 - or any other method that works, really	
-
-Todo:
-- GUI interface (maybe??)
+TODO:
+- [] GUI interface (maybe??)
