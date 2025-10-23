@@ -15,6 +15,8 @@ Prerequisites:
 Installtation:
 - cd into script directory and run "python psc.py"
 - alternatively, run the script inside an IDE
-- or any other method that works, really	
+- or any other method that works, really
+
+
 TODO:
 - [ ] GUI interface (maybe??)
