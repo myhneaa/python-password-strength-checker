@@ -17,4 +17,4 @@ Installtation:
 - alternatively, run the script inside an IDE
 - or any other method that works, really	
 TODO:
-- [] GUI interface (maybe??)
+- [ ] GUI interface (maybe??)
